@@ -1,10 +1,14 @@
-# Custom Select Component
+
+
+# Hi, Mostak Ahamed! 👋
+
+## Custom Select Component
 
 ## Overview
 
 The `Select` component is a customizable dropdown selector that supports single and multi-select modes. It also includes features for search functionality and option clearing. This component is built using React and SCSS for styling.
 
-   [**✅Live Demo**](https://task-shopping-cart.onrender.com/)        ✅ [**Author**](https://github.com/Mostak-Ahamed-Nishat)  ✅ [**Report Issues**](https://github.com/Mostak-Ahamed-Nishat/task_shopping_cart/issues)
+   [**✅Live Demo**](https://custom-select-component.onrender.com/)        ✅ [**Author**](https://github.com/Mostak-Ahamed-Nishat)  ✅ [**Report Issues**](https://github.com/Mostak-Ahamed-Nishat/task_shopping_cart/issues)
 
 
 ## Features
